@@ -1,4 +1,4 @@
-## **Metadata for Results Table	**
+## **Metadata for Results Table**
 
 **Situation** -	The situation considered in the particular test.	_string_
 
