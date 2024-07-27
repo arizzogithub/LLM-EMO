@@ -1,4 +1,4 @@
-**Metadata for Main Dataset Table:**
+## **Metadata for Main Dataset Table:**
 
 **Test_N** - The number of the particular test _(digit)_
 
@@ -21,3 +21,10 @@
 **Supporting_Question_2** - Supporting question 2 that was asked for the main question _(string)_
 
 **Supporting_Response_2** - The response for the prompt and the Supporting Question 2 _(string)_
+
+
+
+
+## **License.**
+
+As part of the open-data movement, we make an extensive dataset publicly accessible to support transparency and facilitate further research. This dataset can be used for educational purposes and to advance the study of emotional intelligence in AI.
